@@ -9,6 +9,7 @@ class Animal {
         Animal dog = new Animal();
         dog.color = "black";
         dog.weight = 20;
+        //Printing result
         System.out.println("Dog Color: " + dog.color + "\nDog Weight in Kg: " + dog.weight);
 
     }
